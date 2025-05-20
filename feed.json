@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VHSHED",
+    "description": "",
+    "home_page_url": "https://paranoiddroid42.github.io/vhs",
+    "feed_url": "https://paranoiddroid42.github.io/vhs/feed.json",
+    "user_comment": "",
+    "icon": "https://paranoiddroid42.github.io/vhs/media/website/VHSLogowithtitle.png",
+    "author": {
+        "name": "Luke Bracegirdle"
+    },
+    "items": [
+    ]
+}

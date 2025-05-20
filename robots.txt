@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://paranoiddroid42.github.io/vhs/sitemap.xml
